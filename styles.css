@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    display:flex  
+}
+.registration-form{
+    background-color: beige;
+    width: 580px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 100px;
+}
+.info-container{
+    display: flex;
+    padding: 30px;
+
+}
+.info{
+    display: flex;
+    flex-direction: column;
+}
+.hero-container{
+    margin-top: 80px;
+    margin-left: 10px;
+}
